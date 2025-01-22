@@ -21,4 +21,4 @@ dnf install -y fastfetch
 
 #### Example for enabling a System Unit File
 
-systemctl --user enable podman.socket
+systemctl enable podman.socket
